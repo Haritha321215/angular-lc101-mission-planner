@@ -1,6 +1,9 @@
+
 .box{
     display:flex;
     margin: 10; 
     justify-content: center;
     align-items: center;
+    background-color: cornflowerblue;
+    margin: 10px;
 }

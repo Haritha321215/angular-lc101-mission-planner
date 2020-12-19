@@ -1,6 +1,17 @@
 h1{
     text-align: center;
+    background-color: darkkhaki;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    border-width: 2;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 h3{
     text-align: center;
+    background-color: darkseagreen;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
 }
